@@ -2,7 +2,8 @@
 - 👀 I’m interested in interact others life 
 - 🌱 I’m currently learning womens mind
 - 💞️ I’m looking to collaborate on 404
-- 📫 How to reach me just close your iea
+- 📫 How to reach me just close your eye
+- 
 
 <!---
 404tottottot/404tottottot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
